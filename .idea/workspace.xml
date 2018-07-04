@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="927af719-a85e-4a27-b2cf-5703f09a17d5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SparkDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/SparkDemo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stop_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/stop_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spark_Shakespeare_Demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spark_Shakespeare_Demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="stop_words.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stop_words.py">
+      <file leaf-file-name="most_frequent_words.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/most_frequent_words.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="120">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -215,10 +213,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/most_frequent_words.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SparkDemo.py">
+    <entry file="file://$PROJECT_DIR$/Spark_Shakespeare_Demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
@@ -228,10 +223,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stop_words.py">
+    <entry file="file://$PROJECT_DIR$/English_Stop_Words.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/most_frequent_words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>

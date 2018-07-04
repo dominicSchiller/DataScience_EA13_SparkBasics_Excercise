@@ -1,7 +1,7 @@
 from pyspark import SparkConf, SparkContext
 from operator import add
 import re
-from stop_words import english_stop_words
+from English_Stop_Words import english_stop_words
 
 
 # create Spark context with Spark configuration
